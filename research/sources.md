@@ -81,7 +81,7 @@ audiences, or measurable results using the methods they teach. No theorists.
   JTBD framework.
 - **What I'm studying:** Jobs-to-be-done for content, psychological 
   triggers in B2B messaging, ICP research methods
-- **Content collected:** [date] — 5 LinkedIn posts, 1 podcast transcript
+- **Content collected:** 2026-06-12 — 4 LinkedIn posts
 
 ## 8. Peep Laja
 - **LinkedIn:** https://linkedin.com/in/peeplaja
