@@ -27,7 +27,7 @@ audiences, or measurable results using the methods they teach. No theorists.
   3,000+ members.
 - **What I'm studying:** Hook psychology, top-of-funnel topic selection, 
   audience-to-product monetization
-- **Content collected:** [date] — 5 LinkedIn posts, 2 YouTube transcripts
+- **Content collected:** 2026-06-12 — 5 LinkedIn posts, 3 YouTube transcripts
 
 ## 3. Jasmin Alić
 - **LinkedIn:** https://linkedin.com/in/alicjasmin
