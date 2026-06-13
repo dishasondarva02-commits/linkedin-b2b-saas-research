@@ -52,15 +52,28 @@ linkedin-b2b-saas-research/
 │
 └── research/
     ├── sources.md                         ← All 10 experts with rationale and collection status
+    ├── experts/                           ← One profile file per expert (index + synthesis)
+    │   ├── justin-welsh.md
+    │   ├── lara-acosta.md
+    │   ├── jasmin-alic.md
+    │   ├── dave-gerhardt.md
+    │   ├── ross-simmonds.md
+    │   ├── amanda-natividad.md
+    │   ├── katelyn-bourgoin.md
+    │   ├── peep-laja.md
+    │   ├── richard-van-der-blom.md
+    │   └── april-dunford.md
     │
     ├── linkedin-posts/                  ← Posts with psychological annotations
     │   ├── katelyn-bourgoin/            ← 5 posts (complete)
-    │   └── lara-acosta/                 ← 5 posts (complete)
+    │   ├── lara-acosta/                 ← 5 posts (complete)
+    │   └── [other experts]/             ← Pending manual collection
     │
     ├── youtube-transcripts/             ← Transcripts and framework syntheses
     │   ├── katelyn-bourgoin/            ← 2 full transcripts
     │   ├── lara-acosta/                 ← 3 transcript summaries
-    │   ├── dave-gerhardt/               ← 1 Exit Five Live transcript
+    │   ├── dave-gerhardt/               ← 1 transcript + framework synthesis
+    │   ├── amanda-natividad/            ← Zero-click framework
     │   ├── justin-welsh/                ← Framework synthesis
     │   ├── jasmin-alic/                 ← Framework synthesis
     │   ├── ross-simmonds/               ← Framework synthesis
@@ -69,7 +82,6 @@ linkedin-b2b-saas-research/
     │   └── april-dunford/               ← Framework synthesis
     │
     ├── other/
-    │   ├── amanda-natividad-zero-click-content.md
     │   └── chris-walker-archive/
     │       ├── dark-social-framework-summary.md
     │       └── demand-creation-vs-capture.md
@@ -84,18 +96,18 @@ linkedin-b2b-saas-research/
 
 ## Collection status
 
-| Expert | LinkedIn posts | Transcripts / resources |
-|---|---|---|
-| Justin Welsh | Pending | Framework synthesis |
-| Lara Acosta | 5 posts ✓ | 3 summaries ✓ |
-| Jasmin Alić | Pending | Framework synthesis |
-| Dave Gerhardt | Pending | 1 Exit Five Live ✓ |
-| Ross Simmonds | Pending | Framework synthesis |
-| Amanda Natividad | Pending | Zero-click framework ✓ |
-| Katelyn Bourgoin | 5 posts ✓ | 2 transcripts ✓ |
-| Peep Laja | Pending | Framework synthesis |
-| Richard van der Blom | Pending | Algorithm summary ✓ |
-| April Dunford | Pending | Framework synthesis |
+| Expert | LinkedIn posts | Transcripts / resources | Expert profile |
+|---|---|---|---|
+| Justin Welsh | Pending | Framework synthesis | [`experts/justin-welsh.md`](research/experts/justin-welsh.md) |
+| Lara Acosta | 5 posts ✓ | 3 summaries ✓ | [`experts/lara-acosta.md`](research/experts/lara-acosta.md) |
+| Jasmin Alić | Pending | Framework synthesis | [`experts/jasmin-alic.md`](research/experts/jasmin-alic.md) |
+| Dave Gerhardt | Pending | 1 transcript + framework ✓ | [`experts/dave-gerhardt.md`](research/experts/dave-gerhardt.md) |
+| Ross Simmonds | Pending | Framework synthesis | [`experts/ross-simmonds.md`](research/experts/ross-simmonds.md) |
+| Amanda Natividad | Pending | Zero-click framework ✓ | [`experts/amanda-natividad.md`](research/experts/amanda-natividad.md) |
+| Katelyn Bourgoin | 5 posts ✓ | 2 transcripts ✓ | [`experts/katelyn-bourgoin.md`](research/experts/katelyn-bourgoin.md) |
+| Peep Laja | Pending | Framework synthesis | [`experts/peep-laja.md`](research/experts/peep-laja.md) |
+| Richard van der Blom | Pending | Algorithm summary ✓ | [`experts/richard-van-der-blom.md`](research/experts/richard-van-der-blom.md) |
+| April Dunford | Pending | Framework synthesis | [`experts/april-dunford.md`](research/experts/april-dunford.md) |
 
 ---
 

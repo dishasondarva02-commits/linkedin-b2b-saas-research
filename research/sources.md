@@ -7,6 +7,8 @@
 **Researcher:** Disha Sondarva  
 **Collection period:** June 2025 – June 2026
 
+Each expert has a dedicated profile in `/research/experts/[expert-name].md` linking to all collected posts, transcripts, and framework syntheses.
+
 ---
 
 ## 1. Justin Welsh
@@ -41,8 +43,10 @@
 - **YouTube:** https://youtube.com/@ExitFive
 - **Why chosen:** CMO who took Drift to $1B and Privy to $100M acquisition using LinkedIn content. Exit Five: $1M+ revenue, 5,000+ paying B2B marketers. 191K LinkedIn followers.
 - **What I'm studying:** Founder-led content, B2B brand building, community monetization from LinkedIn
-- **Content collected:** 2026-06-14 — 1 podcast transcript (Exit Five Live: B2B email marketing)
-  - Transcript: `/research/youtube-transcripts/dave-gerhardt/exit-five-b2b-email-marketing-live.md`
+- **Content collected:** 2026-06-14 — 1 podcast transcript + framework synthesis
+  - Expert profile: `/research/experts/dave-gerhardt.md`
+  - Transcript: `/research/youtube-transcripts/dave-gerhardt/transcript-01-exit-five-b2b-email-marketing-live.md`
+  - Framework: `/research/youtube-transcripts/dave-gerhardt/framework-synthesis.md`
 
 ## 5. Ross Simmonds
 - **LinkedIn:** https://linkedin.com/in/rosssimmonds
@@ -58,7 +62,9 @@
 - **Newsletter:** zeroclickmarketing.co
 - **Why chosen:** Co-invented zero-click content with Rand Fishkin. 60K newsletter subscribers, 35% open rate. Built SparkToro's entire top-of-funnel organically with no SEO strategy.
 - **What I'm studying:** Zero-click framework, audience research before content creation, dark social measurement
-- **Content collected:** 2026-06-14 — zero-click framework summary in `/research/other/amanda-natividad-zero-click-content.md`
+- **Content collected:** 2026-06-14 — zero-click framework summary
+  - Expert profile: `/research/experts/amanda-natividad.md`
+  - Framework: `/research/youtube-transcripts/amanda-natividad/zero-click-content-framework.md`
 
 ## 7. Katelyn Bourgoin
 - **LinkedIn:** https://linkedin.com/in/katebour
