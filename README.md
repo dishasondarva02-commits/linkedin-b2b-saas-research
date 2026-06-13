@@ -1,45 +1,36 @@
-# linkedin-b2b-saas-research
-A research project exploring how attention, trust, positioning, and distribution combine to drive organic B2B SaaS growth on LinkedIn.
-# LinkedIn Organic Content Strategy for B2B SaaS
+# LinkedIn Organic Content Strategy — B2B SaaS Research
 
-## Research Project Overview
-
-This repository contains a research project focused on understanding how B2B SaaS companies grow organically on LinkedIn.
-
-Rather than treating LinkedIn growth as a content creation problem alone, this research explores the interaction between:
-
-* Attention
-* Trust
-* Positioning
-* Distribution
-* Demand Creation
-* Buyer Psychology
-
-The objective is to identify repeatable patterns used by leading practitioners and organize them into a structured knowledge base that can later be converted into a practical growth playbook.
+**Assignment:** Research project for 100Hires CEO accelerator  
+**Topic chosen:** LinkedIn organic content strategy for B2B SaaS  
+**Researcher:** Disha Sondarva  
+**LinkedIn:** https://www.linkedin.com/in/dishasondarva-47659a26a  
+**Status:** In progress (June 2025 – June 2026)
 
 ---
 
-## Why I Chose This Topic
+## Why I chose this topic
 
-I chose LinkedIn Organic Content Strategy because it sits at the intersection of several areas I am actively interested in:
+I have a psychology degree and 256K+ LinkedIn impressions from my own content. I chose this topic because I can apply my 17-intent ontology framework (built at Get My SaaS) to annotate not just *what* these experts do, but *why* it works at a psychological level. That annotation layer is the core differentiator of this research.
 
-* Psychology
-* Content Strategy
-* Personal Branding
-* AI-assisted Research
-* B2B Growth
-
-Through my own content creation efforts, I have generated over 200K LinkedIn impressions and developed a strong interest in understanding why certain content performs while other content gets ignored.
-
-My academic background in psychology also allows me to analyze content beyond surface-level tactics and focus on the underlying behavioral and psychological mechanisms that drive engagement and decision-making.
+Rather than treating LinkedIn growth as a content creation problem alone, this project explores the interaction between attention, trust, positioning, distribution, demand creation, and buyer psychology.
 
 ---
 
-## Research Thesis
+## How I selected the 10 experts
 
-Organic growth on LinkedIn is not driven by posting frequency alone.
+I applied three filters:
 
-It emerges from a combination of:
+1. **Practitioner test** — have they built a real business, audience, or measurable result using the method they teach?
+2. **Active test** — are they publishing in 2025–2026, not just being cited?
+3. **Coverage test** — do the 10 collectively cover all layers of B2B SaaS LinkedIn strategy (creation, distribution, psychology, algorithm, positioning)?
+
+One notable exclusion: **Chris Walker** (Refine Labs), who sold his shares in July 2025 and pivoted to a life coaching business. His archived content is included as historical reference in `/research/other/chris-walker-archive/`.
+
+---
+
+## Research thesis
+
+Organic growth on LinkedIn is not driven by posting frequency alone. It emerges from a combination of:
 
 1. Attention capture
 2. Audience trust
@@ -52,92 +43,110 @@ This research investigates experts who excel in different parts of that system.
 
 ---
 
-## Research Question
+## Repository structure
 
-How do B2B SaaS companies grow organically on LinkedIn through content, psychology, positioning, distribution, and community-led growth?
-
----
-
-## Expert Selection Criteria
-
-Experts included in this research were selected based on:
-
-### Practitioner Test
-
-They have built a real business, audience, product, or measurable growth engine using the methods they teach.
-
-### Active Test
-
-They actively publish and share insights rather than relying solely on historical success.
-
-### Coverage Test
-
-Collectively, they cover different layers of organic growth including:
-
-* Content Creation
-* Founder Branding
-* Buyer Psychology
-* Positioning
-* Distribution
-* Community Building
-* Demand Generation
-
----
-
-## Repository Structure
-
-### /research/sources.md
-
-Expert list, rationale for selection, and research notes.
-
-### /research/linkedin-posts/
-
-LinkedIn posts collected and organized by expert.
-
-### /research/youtube-transcripts/
-
-Transcripts collected from expert interviews, podcasts, and educational videos.
-
-### /research/other/
-
-Supporting frameworks, reports, and additional resources.
-
-### /research/annotations/
-
-Research observations, intent mapping, psychological triggers, and emerging patterns.
+```
+linkedin-b2b-saas-research/
+│
+├── README.md
+│
+└── research/
+    ├── sources.md                         ← All 10 experts with rationale and collection status
+    │
+    ├── linkedin-posts/                  ← Posts with psychological annotations
+    │   ├── katelyn-bourgoin/            ← 5 posts (complete)
+    │   └── lara-acosta/                 ← 5 posts (complete)
+    │
+    ├── youtube-transcripts/             ← Transcripts and framework syntheses
+    │   ├── katelyn-bourgoin/            ← 2 full transcripts
+    │   ├── lara-acosta/                 ← 3 transcript summaries
+    │   ├── dave-gerhardt/               ← 1 Exit Five Live transcript
+    │   ├── justin-welsh/                ← Framework synthesis
+    │   ├── jasmin-alic/                 ← Framework synthesis
+    │   ├── ross-simmonds/               ← Framework synthesis
+    │   ├── peep-laja/                   ← Framework synthesis
+    │   ├── richard-van-der-blom/        ← Algorithm report summary
+    │   └── april-dunford/               ← Framework synthesis
+    │
+    ├── other/
+    │   ├── amanda-natividad-zero-click-content.md
+    │   └── chris-walker-archive/
+    │       ├── dark-social-framework-summary.md
+    │       └── demand-creation-vs-capture.md
+    │
+    └── annotations/
+        ├── intent-map.md                ← Posts mapped to 17-intent ontology
+        ├── patterns.md                  ← 8 cross-source patterns
+        └── playbook.md                  ← Deployable LinkedIn growth playbook
+```
 
 ---
 
-## Annotation Framework
+## Collection status
+
+| Expert | LinkedIn posts | Transcripts / resources |
+|---|---|---|
+| Justin Welsh | Pending | Framework synthesis |
+| Lara Acosta | 5 posts ✓ | 3 summaries ✓ |
+| Jasmin Alić | Pending | Framework synthesis |
+| Dave Gerhardt | Pending | 1 Exit Five Live ✓ |
+| Ross Simmonds | Pending | Framework synthesis |
+| Amanda Natividad | Pending | Zero-click framework ✓ |
+| Katelyn Bourgoin | 5 posts ✓ | 2 transcripts ✓ |
+| Peep Laja | Pending | Framework synthesis |
+| Richard van der Blom | Pending | Algorithm summary ✓ |
+| April Dunford | Pending | Framework synthesis |
+
+---
+
+## Annotation framework
 
 Each content asset is analyzed using:
 
-* Content Type
-* Hook Structure
-* Psychological Trigger
-* Buyer Intent
-* Funnel Stage
-* Distribution Pattern
-* Personal Observations
-
-This layer is designed to move beyond content collection and focus on content interpretation.
+- **Content type** — story, framework, contrarian take, data post
+- **Hook structure** — how line 1 stops the scroll
+- **Psychological trigger** — loss aversion, identity, social proof, mere exposure, etc.
+- **Buyer intent** — mapped to 17-intent ontology
+- **Funnel stage** — awareness through advocacy
+- **Clarity score** — Peep Laja's 3-second message-market fit test (1–5)
+- **Personal observations** — why this works at a behavioral level
 
 ---
 
-## Expected Outcome
+## Key research findings (so far)
 
-The end result of this research will be a structured LinkedIn Organic Growth Engine for B2B SaaS that combines:
+Eight cross-source patterns have emerged from studying 10+ annotated posts and 6+ transcripts:
 
-* Content Strategy
-* Psychology
-* Positioning
-* Distribution
-* Community
-* Demand Generation
+1. The hook comes before the value — always
+2. Zero-click is the standard, not the exception
+3. The algorithm rewards depth of relationship, not reach
+4. Consistency beats virality — every time
+5. Naming the problem is worth more than solving it
+6. Identity over feature — frame the outcome as a person becoming
+7. Distribution system matters more than content quality
+8. Trust channels extend beyond LinkedIn (email, community)
 
-into a repeatable framework for sustainable organic growth.
+Full synthesis in [`/research/annotations/patterns.md`](research/annotations/patterns.md)  
+Deployable playbook in [`/research/annotations/playbook.md`](research/annotations/playbook.md)
 
 ---
 
-Researcher: Disha Sondarva
-Repository Status: In Progress
+## What this research is building toward
+
+A LinkedIn organic content playbook for B2B SaaS founders and marketers — covering ICP psychology, content architecture, distribution, algorithm mechanics, and positioning-first strategy.
+
+The meta-pattern across all experts: the best content makes the reader feel seen, reframes their situation, and points to a better version of themselves. The product comes last. The mechanism is psychological. The result is trust.
+
+---
+
+## About the researcher
+
+Disha Sondarva — psychology graduate and AI content systems builder based in Ahmedabad, Gujarat.
+
+- Built a 17-intent ontology at Get My SaaS mapping decision intents across emotional, cognitive, and behavioral layers
+- Generated 256K+ LinkedIn impressions from personal brand content
+- Built Dira Automation (AI front desk for salons) from zero to working MVP in 6 weeks
+
+---
+
+*Research in progress | [GitHub repository](https://github.com/dishasondarva02-commits/linkedin-b2b-saas-research)*
